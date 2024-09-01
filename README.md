@@ -10,10 +10,7 @@ In the current e-commerce landscape, misinformation, particularly in the form of
 
 ## Video Solution
 
-<video width="800" controls>
-  <source src="accenture submission.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[accenture submission.mp4](https://github.com/pranavmagdum4/E-TrustGuard-Strategic-Solution/blob/main/accenture%20submission.mp4)
 
 The video provides an overview of our approach, demonstrating how our machine learning model effectively tackles the issue of fake reviews and ensures the authenticity of user-generated content.
 
